@@ -1,1 +1,1 @@
-java -jar server.jar nogu
+java -jar server.jar nogui
