@@ -1,10 +1,10 @@
-# CaNaCraft
+# CaNaCraft 🎲🐵
 
-### Start with
+### Start with 🚀
 ```bash
 sh start.sh
 ```
-### Backup with
+### Backup with 💾
 ```bash
 sh backup.sh
 ```
