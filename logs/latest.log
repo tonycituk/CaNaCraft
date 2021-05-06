@@ -1,188 +1,46 @@
-[00:39:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:39:30] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[00:39:31] [Worker-Main-4/INFO]: Loaded 7 recipes
-[00:39:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:39:36] [Server thread/INFO]: Loading properties
-[00:39:38] [Server thread/INFO]: This server is running CraftBukkit version 3059-Spigot-4225eac-7ea8b96 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[00:39:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:39:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:39:40] [Server thread/INFO]: Debug logging is disabled
-[00:39:40] [Server thread/INFO]: Default game type: SURVIVAL
-[00:39:40] [Server thread/INFO]: Generating keypair
-[00:39:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:39:41] [Server thread/INFO]: Using epoll channel type
-[00:39:45] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:39:55] [Server thread/WARN]: Legacy plugin ChairStairs v1.1 does not specify an api-version.
-[00:39:55] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.0.2
-[00:39:55] [Server thread/INFO]: [Chunky] Loading Chunky v1.2.54
-[00:39:55] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.6
-[00:39:55] [Server thread/INFO]: [ChairStairs] Loading ChairStairs v1.1
-[00:39:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:39:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:39:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:39:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:39:55] [Server thread/INFO]: Preparing level "world"
-[00:39:55] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:39:55] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:39:55] [Server thread/INFO]: Mob Spawn Range: 6
-[00:39:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:39:55] [Server thread/INFO]: Entity Activation Range: An 16 / Mo 24 / Ra 32 / Mi 10 / Tiv true
-[00:39:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:39:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[00:39:55] [Server thread/INFO]: Max TNT Explosions: 100
-[00:39:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:39:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:39:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:39:55] [Server thread/INFO]: Arrow Despawn Rate: 600 Trident Respawn Rate:1200
-[00:39:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:39:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:39:55] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:39:55] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:39:55] [Server thread/INFO]: View Distance: 8
-[00:39:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[00:39:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:39:56] [Server thread/INFO]: Mob Spawn Range: 6
-[00:39:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Entity Activation Range: An 16 / Mo 24 / Ra 32 / Mi 10 / Tiv true
-[00:39:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:39:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[00:39:56] [Server thread/INFO]: Max TNT Explosions: 100
-[00:39:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:39:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:39:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:39:56] [Server thread/INFO]: Arrow Despawn Rate: 600 Trident Respawn Rate:1200
-[00:39:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:39:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:39:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:39:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:39:56] [Server thread/INFO]: View Distance: 8
-[00:39:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[00:39:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:39:56] [Server thread/INFO]: Mob Spawn Range: 6
-[00:39:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[00:39:56] [Server thread/INFO]: Entity Activation Range: An 16 / Mo 24 / Ra 32 / Mi 10 / Tiv true
-[00:39:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[00:39:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[00:39:56] [Server thread/INFO]: Max TNT Explosions: 100
-[00:39:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:39:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:39:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:39:56] [Server thread/INFO]: Arrow Despawn Rate: 600 Trident Respawn Rate:1200
-[00:39:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:39:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:39:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:39:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:39:56] [Server thread/INFO]: View Distance: 8
-[00:39:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:01] [Server thread/INFO]: Preparing spawn area: 19%
-[00:40:02] [Server thread/INFO]: Time elapsed: 5500 ms
-[00:40:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:04] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:05] [Server thread/INFO]: Preparing spawn area: 83%
-[00:40:05] [Server thread/INFO]: Time elapsed: 3432 ms
-[00:40:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:40:06] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:06] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:06] [Server thread/INFO]: Preparing spawn area: 0%
-[00:40:07] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[00:40:07] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[00:40:08] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[00:40:08] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[00:40:09] [Worker-Main-9/INFO]: Preparing spawn area: 85%
-[00:40:09] [Server thread/INFO]: Time elapsed: 3776 ms
-[00:40:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.0.2
-[00:40:09] [Server thread/INFO]: §e[§2SkinsRestorer§e] §r[SkinsRestorer] Using SpigotSkinRefresher
-[00:40:09] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_16_R3[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
-[00:40:13] [Server thread/INFO]: [Chunky] Enabling Chunky v1.2.54
-[00:40:13] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.6
-[00:40:13] [Server thread/INFO]: [ChairStairs] Enabling ChairStairs v1.1
-[00:40:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:40:14] [Server thread/INFO]: Done (18.572s)! For help, type "help"
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |  [0;34;1m[4m[21mBukkit only[0;32;1m  |[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m14.0.2[m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
-[00:40:14] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[00:53:10] [Server thread/INFO]: Stopping the server
-[00:53:10] [Server thread/INFO]: Stopping server
-[00:53:10] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.1
-[00:53:10] [Server thread/INFO]: [ChairStairs] has been disabled.
-[00:53:10] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
-[00:53:10] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.54
-[00:53:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.0.2
-[00:53:10] [Server thread/INFO]: Saving players
-[00:53:10] [Server thread/INFO]: Saving worlds
-[00:53:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:53:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:53:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:53:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:53:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:53:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:53:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:53:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:53:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:53:18] [Server thread/INFO]: Saving usercache.json
+[00:04:34] [Server thread/INFO]: FuriousWolf3059 was shot by Skeleton
+[00:07:27] [Server thread/INFO]: FuriousWolf3059 was shot by Skeleton
+[00:15:55] [User Authenticator #6/INFO]: UUID of player TeoWiskuchi is bdce4f9a-3d75-37e1-a6a9-cb02dd42d2e4
+[00:15:55] [Server thread/INFO]: TeoWiskuchi[/187.184.105.39:34404] logged in with entity id 7575 at ([world]112.97696152083482, 90.0, -137.0739758827558)
+[00:16:07] [Server thread/INFO]: FuriousWolf3059 tried to swim in lava
+[00:21:59] [Server thread/INFO]: TeoWiskuchi has made the advancement [Fishy Business]
+[00:24:47] [Server thread/INFO]: FuriousWolf3059 was slain by Zombie
+[00:28:17] [Server thread/INFO]: TeoWiskuchi was slain by FuriousWolf3059
+[01:00:30] [Server thread/INFO]: TeoWiskuchi tried to swim in lava
+[01:06:04] [Async Chat Thread - #0/INFO]: <VT10Shrimp> 79, 11, -45[m
+[01:10:58] [Server thread/INFO]: TeoWiskuchi has made the advancement [The Parrots and the Bats]
+[01:17:41] [Server thread/INFO]: FuriousWolf3059 fell from a high place
+[01:24:33] [Server thread/INFO]: TeoWiskuchi has made the advancement [Not Today, Thank You]
+[01:27:15] [Server thread/INFO]: FuriousWolf3059 was slain by Zombie
+[01:28:34] [Server thread/INFO]: FuriousWolf3059 was slain by Zombie
+[01:32:34] [Server thread/INFO]: FuriousWolf3059 lost connection: Disconnected
+[01:32:34] [Server thread/INFO]: FuriousWolf3059 left the game
+[01:41:38] [Async Chat Thread - #1/INFO]: <VT10Shrimp> 78 , -61[m
+[01:46:06] [Server thread/INFO]: TeoWiskuchi fell from a high place
+[01:49:25] [Server thread/INFO]: VT10Shrimp drowned
+[01:52:42] [Server thread/INFO]: TeoWiskuchi lost connection: Disconnected
+[01:52:42] [Server thread/INFO]: TeoWiskuchi left the game
+[02:08:03] [Server thread/INFO]: VT10Shrimp fell from a high place
+[02:09:09] [Server thread/INFO]: VT10Shrimp fell from a high place
+[02:17:05] [Server thread/INFO]: VT10Shrimp was slain by Zombie
+[02:56:02] [Server thread/INFO]: VT10Shrimp lost connection: Disconnected
+[02:56:02] [Server thread/INFO]: VT10Shrimp left the game
+[02:56:38] [Server thread/INFO]: Stopping the server
+[02:56:38] [Server thread/INFO]: Stopping server
+[02:56:38] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.1
+[02:56:38] [Server thread/INFO]: [ChairStairs] has been disabled.
+[02:56:38] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
+[02:56:38] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.54
+[02:56:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.0.2
+[02:56:38] [Server thread/INFO]: Saving players
+[02:56:38] [Server thread/INFO]: Saving worlds
+[02:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:56:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:56:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:56:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:56:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:56:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:56:49] [Server thread/INFO]: Saving usercache.json
