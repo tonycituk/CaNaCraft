@@ -8,3 +8,6 @@ sh start.sh
 ```bash
 sh backup.sh
 ```
+#### Dependencies
+
+[Cowsay](https://github.com/piuccio/cowsay#install)
