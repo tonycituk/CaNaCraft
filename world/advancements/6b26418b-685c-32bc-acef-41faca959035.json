@@ -352,6 +352,7 @@
       "sweet_berries": "2021-05-03 22:40:43 -0500",
       "cooked_beef": "2021-05-04 01:11:22 -0500",
       "cooked_cod": "2021-05-04 00:22:00 -0500",
+      "bread": "2021-05-07 14:26:28 -0500",
       "rotten_flesh": "2021-05-03 23:07:45 -0500",
       "mushroom_stew": "2021-05-03 23:34:22 -0500",
       "cooked_salmon": "2021-05-04 00:07:12 -0500"
@@ -658,15 +659,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2021-05-06 01:14:41 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2021-05-06 01:09:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-05-06 01:14:41 -0500"
     },
     "done": true
   },
