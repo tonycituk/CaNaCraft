@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-05-09 00:09:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-05-03 22:08:17 -0500"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-05-04 01:15:24 -0500"
@@ -725,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-03 23:06:01 -0500"
@@ -864,8 +882,10 @@
       "minecraft:spider": "2021-05-03 22:44:55 -0500",
       "minecraft:creeper": "2021-05-05 23:48:55 -0500",
       "minecraft:zombified_piglin": "2021-05-03 23:28:32 -0500",
+      "minecraft:cave_spider": "2021-05-09 00:18:03 -0500",
       "minecraft:piglin": "2021-05-03 23:35:53 -0500",
       "minecraft:enderman": "2021-05-03 23:26:05 -0500",
+      "minecraft:silverfish": "2021-05-09 00:10:51 -0500",
       "minecraft:zombie": "2021-05-03 22:17:17 -0500",
       "minecraft:zombie_villager": "2021-05-06 01:41:16 -0500"
     },
@@ -1027,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-05-03 22:18:28 -0500"
@@ -1060,6 +1086,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2021-05-06 02:41:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
     },
     "done": true
   },
@@ -1345,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-05-03 22:34:30 -0500"
@@ -1441,6 +1479,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-05-03 22:20:56 -0500"
@@ -1486,6 +1536,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2021-05-03 22:17:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
     },
     "done": true
   },
@@ -1616,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2021-05-09 00:23:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2021-05-04 01:09:44 -0500"
@@ -1649,6 +1711,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-05-03 22:19:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-05-09 00:19:59 -0500"
     },
     "done": true
   },

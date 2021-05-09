@@ -1,19 +1,30 @@
-[14:08:10] [Server thread/INFO]: Stopping the server
-[14:08:10] [Server thread/INFO]: Stopping server
-[14:08:10] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.1
-[14:08:10] [Server thread/INFO]: [ChairStairs] has been disabled.
-[14:08:10] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
-[14:08:10] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.54
-[14:08:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.0.2
-[14:08:10] [Server thread/INFO]: Saving players
-[14:08:10] [Server thread/INFO]: Saving worlds
-[14:08:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:08:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:08:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:08:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:08:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:08:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:08:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:08:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:08:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:08:16] [Server thread/INFO]: Saving usercache.json
+[00:06:51] [Server thread/INFO]: TeoWiskuchi hit the ground too hard
+[00:17:52] [Server thread/INFO]: TeoWiskuchi fell from a high place
+[00:19:59] [Server thread/INFO]: VT10Shrimp has made the advancement [Take Aim]
+[00:23:48] [Server thread/INFO]: VT10Shrimp issued server command: /hd create mineshat Aquí hay una mineshaft
+[00:25:31] [Server thread/INFO]: VT10Shrimp issued server command: /hd create mineshaft Arriba
+[00:25:56] [Server thread/INFO]: VT10Shrimp issued server command: /hd addline mineshaft Mineshaft
+[00:26:04] [Server thread/INFO]: VT10Shrimp issued server command: /hd addline mineshaft Spawners
+[00:35:25] [Server thread/INFO]: VT10Shrimp lost connection: Disconnected
+[00:35:25] [Server thread/INFO]: VT10Shrimp left the game
+[00:35:42] [Server thread/INFO]: TeoWiskuchi lost connection: Disconnected
+[00:35:42] [Server thread/INFO]: TeoWiskuchi left the game
+[00:38:49] [Server thread/INFO]: Stopping the server
+[00:38:49] [Server thread/INFO]: Stopping server
+[00:38:49] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.1
+[00:38:49] [Server thread/INFO]: [ChairStairs] has been disabled.
+[00:38:49] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
+[00:38:49] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.54
+[00:38:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.0.2
+[00:38:49] [Server thread/INFO]: Saving players
+[00:38:49] [Server thread/INFO]: Saving worlds
+[00:38:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:38:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:57] [Server thread/INFO]: Saving usercache.json

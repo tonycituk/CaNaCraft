@@ -2,3 +2,13 @@ ejemplo:
   location: world, 99.745, 73.200, -129.943
   lines:
   - Bienvenidos a &uCaraNalga&6Craft
+mineshat:
+  location: world, 275.313, 30.200, 187.133
+  lines:
+  - Aquí hay una mineshaft
+mineshaft:
+  location: world, 293.485, 14.200, 172.902
+  lines:
+  - Arriba
+  - Mineshaft
+  - Spawners
