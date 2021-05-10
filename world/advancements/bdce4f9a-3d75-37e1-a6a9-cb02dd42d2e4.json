@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-05-10 02:23:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-05-03 22:10:57 -0500"
@@ -86,6 +92,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-05-03 22:11:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
     },
     "done": true
   },
@@ -119,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-03 22:54:08 -0500"
@@ -143,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2021-05-10 01:35:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2021-05-04 00:32:18 -0500"
@@ -164,6 +188,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-05-03 22:11:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
     },
     "done": true
   },
@@ -221,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-05-03 23:07:16 -0500"
@@ -231,6 +267,7 @@
     "criteria": {
       "sweet_berries": "2021-05-03 22:22:15 -0500",
       "cooked_beef": "2021-05-06 00:29:03 -0500",
+      "beef": "2021-05-10 02:23:46 -0500",
       "bread": "2021-05-03 23:04:09 -0500",
       "salmon": "2021-05-06 00:25:49 -0500",
       "mushroom_stew": "2021-05-04 01:05:30 -0500",
@@ -299,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-05-04 00:18:12 -0500"
@@ -317,9 +360,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-05-04 00:08:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2021-05-10 02:23:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-05-10 02:23:36 -0500"
     },
     "done": true
   },
@@ -329,9 +390,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-03 22:54:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
     },
     "done": true
   },
@@ -368,6 +441,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-05-03 22:52:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
     },
     "done": true
   },
@@ -473,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2021-05-04 01:09:54 -0500"
@@ -545,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-05-10 02:23:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-05-03 22:52:38 -0500"
@@ -579,6 +670,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-05-03 22:17:11 -0500",
       "minecraft:spider": "2021-05-04 00:52:05 -0500",
+      "minecraft:creeper": "2021-05-10 01:31:11 -0500",
       "minecraft:zombie": "2021-05-03 22:17:03 -0500",
       "minecraft:zombie_villager": "2021-05-06 01:25:24 -0500"
     },
@@ -605,6 +697,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-05-04 00:31:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2021-05-10 02:23:36 -0500"
     },
     "done": true
   },
@@ -704,6 +802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-05-03 22:10:57 -0500"
@@ -722,9 +826,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-05-06 01:12:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
     },
     "done": true
   },
@@ -782,9 +898,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2021-05-10 01:35:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-05-06 01:24:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
     },
     "done": true
   },
@@ -812,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-03 22:54:08 -0500"
@@ -836,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-05-03 23:07:16 -0500"
@@ -845,6 +985,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-05-03 22:52:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
     },
     "done": true
   },
@@ -944,6 +1090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-05-10 02:23:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-05-04 00:18:12 -0500"
@@ -953,6 +1105,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2021-05-03 22:17:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
     },
     "done": true
   },
@@ -977,6 +1135,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2021-05-03 22:54:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2021-05-10 02:23:36 -0500"
     },
     "done": true
   },
@@ -1048,6 +1212,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2021-05-04 00:10:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-05-10 02:23:36 -0500"
     },
     "done": true
   },
@@ -1141,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-10 01:53:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-05-03 23:07:16 -0500"
@@ -1150,6 +1326,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-03 22:11:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2021-05-10 02:23:36 -0500"
     },
     "done": true
   },
@@ -1198,6 +1380,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-05-03 22:52:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-10 02:14:27 -0500"
     },
     "done": true
   },
