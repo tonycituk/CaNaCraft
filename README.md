@@ -6,7 +6,7 @@ sh start.sh
 ```
 ### Backup with 💾
 ```bash
-sh backup.sh
+./backup.sh
 ```
 #### Dependencies
 
