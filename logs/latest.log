@@ -1,28 +1,31 @@
-[00:09:20] [Server thread/WARN]: VT10Shrimp moved wrongly!
-[00:19:55] [Server thread/INFO]: TeoWiskuchi has made the advancement [We Need to Go Deeper]
-[00:22:28] [Server thread/INFO]: TeoWiskuchi has made the advancement [Ice Bucket Challenge]
-[00:43:06] [Server thread/INFO]: TeoWiskuchi has made the advancement [Sweet Dreams]
-[00:44:16] [Server thread/INFO]: VT10Shrimp has made the advancement [Sweet Dreams]
-[01:06:09] [Server thread/INFO]: VT10Shrimp lost connection: Disconnected
-[01:06:09] [Server thread/INFO]: VT10Shrimp left the game
-[01:06:28] [Server thread/INFO]: TeoWiskuchi lost connection: Disconnected
-[01:06:28] [Server thread/INFO]: TeoWiskuchi left the game
-[01:07:08] [Server thread/INFO]: Stopping the server
-[01:07:08] [Server thread/INFO]: Stopping server
-[01:07:08] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.1
-[01:07:08] [Server thread/INFO]: [ChairStairs] has been disabled.
-[01:07:08] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
-[01:07:08] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.54
-[01:07:08] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.0.2
-[01:07:08] [Server thread/INFO]: Saving players
-[01:07:08] [Server thread/INFO]: Saving worlds
-[01:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:07:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:07:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:07:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:07:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:07:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:07:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:07:09] [Server thread/INFO]: Saving usercache.json
+[04:36:07] [User Authenticator #1/INFO]: UUID of player VT10Shrimp is 6b26418b-685c-32bc-acef-41faca959035
+[04:36:07] [Server thread/INFO]: VT10Shrimp[/192.168.1.75:51100] logged in with entity id 317 at ([world]102.22687288021315, 73.0, -133.86211269749788)
+[05:23:12] [Server thread/INFO]: VT10Shrimp has completed the challenge [Hot Tourist Destinations]
+[05:31:22] [Server thread/INFO]: VT10Shrimp has made the advancement [Cover Me With Diamonds]
+[05:32:02] [Server thread/INFO]: VT10Shrimp lost connection: Disconnected
+[05:32:02] [Server thread/INFO]: VT10Shrimp left the game
+[05:33:11] [User Authenticator #2/INFO]: UUID of player VT10Shrimp is 6b26418b-685c-32bc-acef-41faca959035
+[05:33:11] [Server thread/INFO]: VT10Shrimp[/192.168.1.75:51589] logged in with entity id 8752 at ([world]96.52145638435934, 68.0, -152.69999998807907)
+[06:03:23] [Server thread/INFO]: VT10Shrimp lost connection: Disconnected
+[06:03:24] [Server thread/INFO]: VT10Shrimp left the game
+[06:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7703ms or 154 ticks behind
+[06:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
+[16:35:04] [Server thread/INFO]: Stopping the server
+[16:35:04] [Server thread/INFO]: Stopping server
+[16:35:04] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.1
+[16:35:04] [Server thread/INFO]: [ChairStairs] has been disabled.
+[16:35:04] [Server thread/INFO]: [Chunky] Disabling Chunky v1.2.54
+[16:35:04] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
+[16:35:04] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.0.2
+[16:35:04] [Server thread/INFO]: Saving players
+[16:35:05] [Server thread/INFO]: Saving worlds
+[16:35:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:35:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:35:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:35:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:35:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:35:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:35:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:35:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:35:09] [Server thread/INFO]: Saving usercache.json

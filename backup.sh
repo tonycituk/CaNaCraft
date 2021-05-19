@@ -1,3 +1,4 @@
+#!/bin/bash
 EMOJIS=(🚀 💜 💗 🍌 💚 🐈 🍒 🦊 🌈 🎮 🦗 🌱)
 RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
 dateV=$(date +'%d-%m-%Y %H:%M')
